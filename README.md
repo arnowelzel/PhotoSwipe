@@ -1,3 +1,5 @@
+*Please note: This fork is no longer under active development! I only update PhotoSwipe as part of the WordPress plugin (see https://github.com/arnowelzel/lightbox-photoswipe/).*
+
 # PhotoSwipe Repository 
 
 [![Build Status](https://travis-ci.org/dimsemenov/PhotoSwipe.svg)](https://travis-ci.org/dimsemenov/PhotoSwipe) 
